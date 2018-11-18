@@ -1,0 +1,28 @@
+{
+  "name": "tigernodesofspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tigernodesofspace.js",
+  "scripts": {
+    "start": "nodemon tigernodesofspace.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MrFabkirox/tigernodesofspace.git"
+  },
+  "author": "Fabrice Esope",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrFabkirox/tigernodesofspace/issues"
+  },
+  "homepage": "https://github.com/MrFabkirox/tigernodesofspace#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.12",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
